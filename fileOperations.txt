@@ -1,0 +1,16 @@
+Hello world
+welcome to programming
+this is a text file
+
+Mode of writing files :
+"r" -> used for reading files
+"w" -> used to write in files, old data is cleared
+"x" -> used to create a new file and write in to it
+"a" -> used to write to a existing file
+"t" -> by default opens in text Mode
+"b" -> used to open binary files
+"+" -> open a disk for updating (reading and writing)
+"r+" -> used to read and write
+"w+" -> used to clear the data and rewrite. used to read the re-written data
+"a+" -> used to read and write without losing previous data
+thanks
